@@ -24,7 +24,7 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - DNS intégré à Active Directory
 - DHCP pour la distribution automatique des adresses IP
 
-![Schéma réseau / architecture du lab](./screenshoots/architecture.png)
+![Schéma réseau / architecture du lab](./Active-directory-window-server-2022/screenshoots/architecture_lab.png)
 
 ---
 
@@ -36,7 +36,7 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Création du domaine
 
 
-![Promotion du serveur en contrôleur de domaine](./screenshoots/domaine.png)
+![Promotion du serveur en contrôleur de domaine](./Active-directory-window-server-2022/screenshoots/domaine.png)
 
 ---
 
@@ -45,9 +45,9 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Zone de recherche inversée
 - Vérification de la résolution de noms
 
-[Console DNS](./screenshoots/dns.png)
-[Zone de recherche directe](./screenshoots/recherche-directe.png)
-[Zone de recherche inversée](./screenshoots/recherche-inverser.png)
+[Console DNS](./Active-directory-window-server-2022/screenshoots/dns.png)
+[Zone de recherche directe](./Active-directory-window-server-2022/screenshoots/recherche-directe.png)
+[Zone de recherche inversée](./Active-directory-window-server-2022/screenshoots/recherche-inverser.png)
 
 ---
 
@@ -56,8 +56,8 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Paramètres IP (passerelle, DNS)
 - Autorisation du serveur DHCP dans l’AD
 
- [Étendue DHCP active](./screenshoots/dhcp.png)
- [parametre IP](./screenshoots/adresseip.png)
+ [Étendue DHCP active](./Active-directory-window-server-2022/screenshoots/dhcp.png)
+ [parametre IP](./Active-directory-window-server-2022/screenshoots/CONFIG8adresse_ip.png)
 
 ---
 
@@ -66,8 +66,8 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Ajout des utilisateurs et groupes
 - Intégration des postes clients au domaine
 
-[OU et utilisateurs dans ADUC](./screenshoots/O_U.png)
-[ utilisateurs et groupes](./screenshoots/client.png)
+[OU et utilisateurs dans ADUC](./Active-directory-window-server-2022/screenshoots/O_U.png)
+[ utilisateurs et groupes](./Active-directory-window-server-2022/screenshoots/EXEMPLE-UTILISATEUR.png)
 
 ---
 
@@ -76,13 +76,13 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Restrictions système
 - Application des GPO par OU
 
-[Console GPMC](./screenshoots/console-gpo.png)
-[blocage de 03 tentative de connexion](./screenshoots/mauvaise-connexion.png)
+[Console GPMC](./Active-directory-window-server-2022/screenshoots/console-gpo.png)
+[blocage de 03 tentative de connexion](./Active-directory-window-server-2022/screenshoots/mauvaise-connexion.png)
 [blocage application non autorisé par le controleur de domaine](./screenshoots/application-nonautorisé.png)
-[journalisation et logs](./screenshoots/jounalisationlog.png)
-[blocage stockage amovible utilisateur standard](./screenshoots/amovible.png)
-[Restrictions système](./screenshoots/systeme.png)
-[partage fichier reseau](./screenshoots/filserver.png)
+[journalisation et logs](./Active-directory-window-server-2022/screenshoots/jounalisationlog.png)
+[blocage stockage amovible utilisateur standard](./Active-directory-window-server-2022/screenshoots/amovible.png)
+[Restrictions système](./Active-directory-window-server-2022/screenshoots/systeme.png)
+[partage fichier reseau](./Active-directory-window-server-2022/screenshoots/filserver.png)
 [etc..]
 
 
@@ -103,7 +103,7 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 
 ## 🚀 Évolutions possibles
 - Ajout d’un second contrôleur de domaine
-- ajout des gpo avancer
+- ajout des GPO avancer
 - Mise en place d’un IDS/IPS
 - Scénarios d’attaque et de défense Active Directory
 - Automatisation via PowerShell
@@ -116,5 +116,5 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 ---
 
 ## 👤 Auteur
-**Rodrigue Balogou**  
+**Rodrigue O. K. Balogou**  
 Étudiant en Systèmes et Sécurité des Réseaux Informatiques
