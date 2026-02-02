@@ -36,7 +36,7 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Création du domaine
 
 
-![Promotion du serveur en contrôleur de domaine](./Active-directory-window-server-2022/screenshoots/domaine.png)
+![Promotion du serveur en contrôleur de domaine](./active-directory-window-server-2022/screenshoots/domaine.png)
 
 ---
 
@@ -45,9 +45,9 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Zone de recherche inversée
 - Vérification de la résolution de noms
 
-[Console DNS](./Active-directory-window-server-2022/screenshoots/dns.png)
-[Zone de recherche directe](./Active-directory-window-server-2022/screenshoots/recherche-directe.png)
-[Zone de recherche inversée](./Active-directory-window-server-2022/screenshoots/recherche-inverser.png)
+[Console DNS](./active-directory-window-server-2022/screenshoots/dns.png)
+[Zone de recherche directe](./active-directory-window-server-2022/screenshoots/recherche-directe.png)--
+[Zone de recherche inversée](./active-directory-window-server-2022/screenshoots/recherche-inverser.png)
 
 ---
 
@@ -56,8 +56,8 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Paramètres IP (passerelle, DNS)
 - Autorisation du serveur DHCP dans l’AD
 
- [Étendue DHCP active](./Active-directory-window-server-2022/screenshoots/dhcp.png)
- [parametre IP](./Active-directory-window-server-2022/screenshoots/CONFIG8adresse_ip.png)
+ [Étendue DHCP active](./active-directory-window-server-2022/screenshoots/dhcp.png)--
+ [parametre IP](./active-directory-window-server-2022/screenshoots/adresseip.png)
 
 ---
 
@@ -66,8 +66,8 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Ajout des utilisateurs et groupes
 - Intégration des postes clients au domaine
 
-[OU et utilisateurs dans ADUC](./Active-directory-window-server-2022/screenshoots/O_U.png)
-[ utilisateurs et groupes](./Active-directory-window-server-2022/screenshoots/EXEMPLE-UTILISATEUR.png)
+[OU et utilisateurs dans ADUC](./active-directory-window-server-2022/screenshoots/O_U.png)--
+[ utilisateurs et groupes](./active-directory-window-server-2022/screenshoots/client.png)
 
 ---
 
@@ -76,13 +76,13 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - Restrictions système
 - Application des GPO par OU
 
-[Console GPMC](./Active-directory-window-server-2022/screenshoots/console-gpo.png)
-[blocage de 03 tentative de connexion](./Active-directory-window-server-2022/screenshoots/mauvaise-connexion.png)
-[blocage application non autorisé par le controleur de domaine](./screenshoots/application-nonautorisé.png)
-[journalisation et logs](./Active-directory-window-server-2022/screenshoots/jounalisationlog.png)
-[blocage stockage amovible utilisateur standard](./Active-directory-window-server-2022/screenshoots/amovible.png)
-[Restrictions système](./Active-directory-window-server-2022/screenshoots/systeme.png)
-[partage fichier reseau](./Active-directory-window-server-2022/screenshoots/filserver.png)
+[Console GPMC](./active-directory-window-server-2022/screenshoots/console-gpo.png)--
+[blocage de 03 tentative de connexion](./active-directory-window-server-2022/screenshoots/mauvaise-connexion.png)--
+[blocage application non autorisé par le controleur de domaine](./active-directory-window-server-2022/screenshoots/application-nonautorisé.png)--
+[journalisation et logs](./active-directory-window-server-2022/screenshoots/jounalisationlog.png)--
+[blocage stockage amovible utilisateur standard](./active-directory-window-server-2022/screenshoots/amovible.png)--
+[Restrictions système](./active-directory-window-server-2022/screenshoots/systeme.png)--
+[partage fichier reseau](./active-directory-window-server-2022/screenshoots/filserver.png)--
 [etc..]
 
 
