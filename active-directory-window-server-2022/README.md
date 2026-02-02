@@ -103,6 +103,7 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 
 ## 🚀 Évolutions possibles
 - Ajout d’un second contrôleur de domaine
+- ajout des gpo avancer
 - Mise en place d’un IDS/IPS
 - Scénarios d’attaque et de défense Active Directory
 - Automatisation via PowerShell
