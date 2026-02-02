@@ -8,6 +8,14 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 
 ---
 
+# Active Directory Windows Server 2022
+
+![Project](https://img.shields.io/badge/Project-Lab%20Active%20Directory-blue)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-important)
+![Documentation](https://img.shields.io/badge/Documentation-Complete-success)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Author](https://img.shields.io/badge/Author-Rodrigue-balogou)
+
 ## 🎯 Objectifs
 - Déployer un contrôleur de domaine (DC)
 - Mettre en place les services essentiels (DNS, DHCP,serveur de fichier)
