@@ -24,7 +24,7 @@ L’objectif est de comprendre **le pourquoi**, **le comment** et **les impacts*
 - DNS intégré à Active Directory
 - DHCP pour la distribution automatique des adresses IP
 
-![Schéma réseau / architecture du lab](./screenshoots/architecture_lab.png)
+![Schéma réseau / architecture du lab](./active-directory-window-server-2022/screenshoots/architecture_lab.png)
 
 ---
 
